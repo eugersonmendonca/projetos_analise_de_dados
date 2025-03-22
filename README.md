@@ -2,5 +2,5 @@
 
 <ol>
 
-   <li><h4>Análise de dados vendas | Excel, KPI, Análise comparativa, Tabela, Gráfico, Slicers, Dashboard | :link: <a href="https://github.com/eugersonmendonca/analise-de-dados-excel">Acessar aqui</a></h4></li>
+   <li><h4>Análise Desempenho Enem | Excel, RStudio, Linguagem R | :link: <a href="https://github.com/eugersonmendonca/analise-desempenho-enem">Acessar aqui</a></h4></li>
 </ol>
